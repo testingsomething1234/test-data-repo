@@ -1,0 +1,33 @@
+{
+    "forms": [
+        {
+            "event_name": "IRT_4G_EVENT",
+            "eventgroup_name": "IRT_4G_EVENTGROUP",
+            "form_name": "IRT_4G_SCREENING",
+            "items": [
+                {
+                    "item_name": "IRT_4G_AGE",
+                    "itemgroup_name": "IRT_4G_DEMOG",
+                    "itemgroup_sequence": 1,
+                    "value": "male"
+                },
+                {
+                    "item_name": "IRT_4G_ICDT",
+                    "itemgroup_name": "IRT_4G_SCR_DATES",
+                    "itemgroup_sequence": 1,
+                    "value": "1989"
+                },
+                {
+                    "item_name": "IRT_4G_SCRDT",
+                    "itemgroup_name": "IRT_4G_SCR_DATES",
+                    "itemgroup_sequence": 1,
+                    "value": "2022-06-14"
+                }
+            ],
+            "site": "101",
+            "study_country": "United States",
+            "subject": "QASR0001"
+        }
+    ],
+    "study_name": "4G_IRT_TEMPLATE_DEV1"
+}
